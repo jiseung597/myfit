@@ -100,7 +100,7 @@ Frontend (React)
 
 ## 📫 Contact
 
-* Email: (너 이메일)
-* GitHub: https://github.com/YOUR_GITHUB_ID
+* Email: davidsong12349095@gmail.com
+* GitHub: https://github.com/jiseung597/myfit
 
 ---
